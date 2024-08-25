@@ -1,7 +1,6 @@
-# Online Examination System
-
+# Mern-Exam-System
 ## Description
-The *Online Examination System* is a web-based portal designed to facilitate online exams for students. 
+The *Mern-Exam-System* is a web-based portal designed to facilitate online exams for students. 
 This platform allows students to register, take exams, prepare for upcoming tests, view their progress, 
 and provide feedback after each exam. The system is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with integration of Generative AI for enhanced functionalities.
 
